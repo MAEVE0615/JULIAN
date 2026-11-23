@@ -1,7 +1,7 @@
 {
-  "name": "WHITE",
-  "short_name": "WHITE",
-  "description": "White's single conversation.",
+  "name": "JULIAN",
+  "short_name": "JULIAN",
+  "description": "JULIAN — a roleplay client with long-context management and hand-written summaries.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
